@@ -28,7 +28,13 @@ This is a sample og a good README.md file that can be used when describing a pro
 
 ## Additional information  
 
-~~Strikethrough  
+~~Strikethrough~~  
+
+_extremely_ important  
+
+<sub>SMALL  
+
+I need to <ins>underline this
 
 > Quote info
 > "BLAH BLAH"
