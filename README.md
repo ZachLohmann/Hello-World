@@ -23,3 +23,12 @@ This is a sample og a good README.md file that can be used when describing a pro
   Disscussed all programing langhuages and tools used in this project
 
   ## Files Used
+
+## How to run program  
+
+## Additional information  
+
+~~Strikethrough  
+
+> Quote info
+> "BLAH BLAH"
